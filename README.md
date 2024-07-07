@@ -62,4 +62,3 @@ To install the Credit Fraud Detection project:
 - **README.md**: This readme file.
 - **credit_risk.py**: Python script for preprocessing the data and training the models.
 
-This readme provides an overview and the necessary steps to use the Credit Fraud Detection project effectively.
